@@ -1,13 +1,13 @@
 ---
-author: evabat
-title: active-badge
-image_url: /images/active-badge.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
-πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+author: evagelos kriezis
+title: Bombe Machine
+image_url: /images/bombe.jpg
+caption: 'Η ηλεκτρομηχανική υπολογιστική συσκευή Bombe,  που χρησιμοποιήθηκε  από τους Βρετανούς για την ενίσχυση της αποκρυπτογράφησης του γερμανικής μηχανής κρυπτογράφησης "Enigma" κατά τον 2ο Παγκόσμιο Πόλεμο.  Η αρχική μηχανή κατασκευάστηκε το 1939 στο Government Code and Cypher School (GC&CS) στο Bletchley Park από τον Alan Turing. Tο σετ των αρχικών θέσεων των "rotors" - δρομολογητών που χρησιμοποιούνται και τις θέσεις τους στη μηχανή τις θέτει ο χειριστής χειροκίνητα.'
+license_url: 'https://www.nsa.gov/resources/everyone/digital-media-center/image-galleries/cryptologic-museum/machines/ '
+license_text: Courtesy of National Security Agency
 categories:
   - archetypes
 tags:
-  - Xerox
+  - Cryptanalytic, hci
 ---
+
